@@ -1,9 +1,9 @@
 # Teste Marisa
 Esta aplicação é exclusivamente feita para Marisa. 
 
-## Install with Docker
+## Execução da API em Node.js
 
-1- Instale Node em sua máquina
+1- Instale Node em sua máquina.
 
 2- Instale as dependências necessárias, executando o seguindo comando dentro da pasta raiz da aplicação: 
 
